@@ -24,7 +24,7 @@
 <meta name="description" content="HTML: The bony struacture any web site, This repository will help you to get started with HTML. You will learn all/most commonly used html elements, attributes etc.">
 
 <!-- Defines a title for the document -->
-<!-- Titel is name of your website, So that should be unique>
+<!-- Title is name of your website, So that should be unique>
 <title>HTML5</title>
 
 <!-- Defines the documents body -->
@@ -47,7 +47,7 @@
 <br>
 
 <!-- Defines the relationship between a document and an external resource (mostly used to link to a style sheet) -->
-<link rel="stylesheet" href="">
+<link rel="stylesheets" href="">
 
 <!-- Defines style information for a document -->
 <style> 
