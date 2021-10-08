@@ -46,6 +46,11 @@
 <!-- Inserts a single line break -->
 <br>
 
+<!-- Inserts a single line horizontal line -->
+<hr> 
+
+
+
 <!-- Defines the relationship between a document and an external resource (mostly used to link to a style sheet) -->
 <link rel="stylesheets" href="">
 
