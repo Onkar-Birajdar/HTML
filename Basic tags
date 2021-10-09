@@ -58,3 +58,17 @@
 <style> 
 ...
 </style>
+
+<!-- Defines the relationship between a document and an external resource 
+<link rel="stylesheets" href="">
+ 
+<!-- Defines script information for a document -->
+
+
+<script src=""> </script>
+
+or 
+
+<script> 
+...
+</script>
